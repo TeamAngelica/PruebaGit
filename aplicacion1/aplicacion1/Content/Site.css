@@ -13,7 +13,7 @@ body {
 
 /* Override the default bootstrap behavior where horizontal description lists 
    will truncate terms that are too long to fit in the left column 
-*/
+*//*hola camaron sin cola */
 .dl-horizontal dt {
     white-space: normal;
 }
